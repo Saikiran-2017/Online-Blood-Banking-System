@@ -169,6 +169,3 @@ If you’d like to improve this project:
 **Sai Kiran P**
 📧 [saikiran.itcareer@gmail.com](mailto:saikiran.itcareer@gmail.com)
 💻 [GitHub Profile](https://github.com/Saikiran-2017)
-
-
-Would you like me to also create a `LICENSE` file (the standard `LICENSE.txt` for Apache 2.0) to match this README?
