@@ -1,8 +1,3 @@
-Perfect 👍 — here’s your **final README.md** version with a clean **Apache 2.0 License section** added at the end.
-It’s ready to **copy and paste directly** into your GitHub repository.
-
----
-
 # 🩸 Online Blood Banking System
 
 The **Online Blood Banking System** is a simple web application built using **PHP and MySQL** to help connect blood donors and people in need of blood.
