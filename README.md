@@ -169,10 +169,6 @@ If you’d like to improve this project:
 
 ---
 
-## 📄 License
-
-Currently unlicensed — for personal or educational use only.
-
 ## 👨‍💻 Author
 
 **Sai Kiran P**
